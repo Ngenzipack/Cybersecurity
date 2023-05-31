@@ -16,6 +16,6 @@ project.</em>
 
 <u>
 
-<h2>Professional Templalte </h2>
+<h2>Professional Statement</h2>
 <p>I am enthusiastic about information security, modern technologies and enjoy contributing to solution that can poistively impact organization and the people it serves. </p>
 
